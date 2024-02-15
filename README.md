@@ -5,7 +5,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🌱 I’m currently learning Web Development (React).
+- 🌱 I’m currently learning Full Web Development ( MERN ).
 - 💬 Ask me about MERN stack or any tech-related stuff.
 - 📫 How to reach me: aakashmaity57@gmail.com 
 
