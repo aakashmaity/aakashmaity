@@ -19,7 +19,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akashmaity101)
 
 
-## <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />  What I know
+## 🛠 What I know
 
 ### Tools I use on a daily basis
 
@@ -29,24 +29,29 @@ title="open repo → 'skill icons'"
 href="https://github.com/tandpfun/skill-icons#readme">
   <img 
   alt="skill-icons" 
-  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,sass,figma,vscode,git" 
+  src="https://skillicons.dev/icons/?i=js,react,nodejs,mongodb,nextjs,bootstrap,tailwindcss,css,mysql,postman,cpp,python,django,vscode,git" 
   />
 </a>
-<!--
-**aakashmaity/aakashmaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashmaity&theme=vue"/>
+</p>
 
+## 📟 GitHub Stats
+<p align="center">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=aakashmaity&show_icons=true&theme=vue" />
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmaity&theme=vue" /><br>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashmaity&show_icons=true&locale=en&layout=compact" alt="aakashmaity" />
+	
+	
+</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aakashmaity&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<br>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aakashmaity&label=Profile%20Views&color=0&icon=1&pretty=false" />
