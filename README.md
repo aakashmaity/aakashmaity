@@ -19,7 +19,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akashmaity101)
 
 
-## What I know <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
+## <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />  What I know
 
 ### Tools I use on a daily basis
 
