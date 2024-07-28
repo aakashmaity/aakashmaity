@@ -44,9 +44,9 @@ href="https://github.com/tandpfun/skill-icons#readme">
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=aakashmaity&show_icons=true&theme=vue" />
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmaity&theme=vue" /><br>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashmaity&show_icons=true&locale=en&layout=compact" alt="aakashmaity" />
-	
-	
-</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <details>	
  <summary><b>GSSOC'24 Badges 🪶</b></summary><br>
